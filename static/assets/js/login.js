@@ -2,7 +2,7 @@ function login() {
       var password = document.getElementById("password").value;
       var errorMessage = document.getElementById("error-message");
 
-      if (password === "duontop") {
+      if (password === "Jalil4Prez") {
         location.href = '/app';
         errorMessage.textContent = ""; // Clear error message
         localStorage.setItem('pass', 'correct');
