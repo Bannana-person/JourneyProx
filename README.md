@@ -1,6 +1,6 @@
 <div align='center'>
   
-![Alt](static/assets/img/doge.jpg)
+![Alt](static/assets/img/windows-vista.png)
 # JourneyProx
 Welcome to the official repository of JourneyProx, the web proxy designed exclusively for students. We take immense pride in providing you with an unparalleled proxy service that is unrivaled in speed, security, and reliability.
 </div>
