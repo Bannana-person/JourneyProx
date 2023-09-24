@@ -47,7 +47,7 @@ server.on("upgrade", (req, socket, head) => {
 });
 
 server.on("listening", () => {
-  console.log(`Doge Unblocker running at port 8080`);
+  console.log(`JourneyProx running at port 8080`);
 });
 
 server.listen({
